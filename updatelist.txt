@@ -1,0 +1,5 @@
+X-MenSkirmish	08-03-22
+plugins/X-MenSkirmish/plugininfo.txt	https://github.com/timothy-m-gillick/lackeyccg-x-menskirmish/raw/main/plugininfo.txt	119270
+plugins/X-MenSkirmish/sets/setimages/general/cardback.jpg	https://github.com/timothy-m-gillick/lackeyccg-x-menskirmish/raw/main/cardback.jpg	394124
+CardGeneralURLs:		
+https://drive.google.com/drive/folders/1ew6bduV0PcyyFTUjToIqJ1ogiOPfs_av?usp=sharing
